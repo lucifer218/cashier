@@ -1,7 +1,7 @@
 SE final project:  
 Use Case Diagram  
 CRC Card  
-Class Diagram  
+Class Diagram  
 Sequence Diagram  
 Communication Diagram  
 C# code  
