@@ -1,0 +1,24 @@
+E:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\bin\Debug\Register.exe
+E:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\bin\Debug\Register.pdb
+E:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\obj\x86\Debug\Register.exe
+E:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\obj\x86\Debug\Register.pdb
+E:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\obj\x86\Debug\Register.csprojResolveAssemblyReference.cache
+C:\Users\lucifer0218\Desktop\物件導向軟體工程\Register\Register\obj\x86\Debug\Register.exe
+C:\Users\lucifer0218\Desktop\物件導向軟體工程\Register\Register\obj\x86\Debug\Register.pdb
+C:\Users\lucifer0218\Desktop\物件導向軟體工程\Register\Register\bin\Debug\Register.exe
+C:\Users\lucifer0218\Desktop\物件導向軟體工程\Register\Register\bin\Debug\Register.pdb
+C:\Users\lucifer0218\Desktop\物件導向軟體工程\Register\Register\obj\x86\Debug\Register.csprojResolveAssemblyReference.cache
+F:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\obj\x86\Debug\Register.exe
+F:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\obj\x86\Debug\Register.pdb
+F:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\obj\x86\Debug\Register.csprojResolveAssemblyReference.cache
+F:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\bin\Debug\Register.exe
+F:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\bin\Debug\Register.pdb
+I:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\obj\x86\Debug\Register.exe
+I:\I319物件導向軟體工程 吳勝堂[W3 789]\Register\Register\obj\x86\Debug\Register.pdb
+C:\Users\lucifer0218\Desktop\l\亞大\10物件導向軟體工程\Register\Register\obj\x86\Debug\Register.exe
+C:\Users\lucifer0218\Desktop\l\亞大\10物件導向軟體工程\Register\Register\obj\x86\Debug\Register.pdb
+C:\Users\lucifer0218\Desktop\l\ASIA\10物件導向軟體工程\Register\Register\obj\x86\Debug\Register.exe
+C:\Users\lucifer0218\Desktop\l\ASIA\10物件導向軟體工程\Register\Register\obj\x86\Debug\Register.pdb
+C:\Users\lucifer0218\Desktop\l\ASIA\10物件導向軟體工程\Register\Register\bin\Debug\Register.exe
+C:\Users\lucifer0218\Desktop\l\ASIA\10物件導向軟體工程\Register\Register\bin\Debug\Register.pdb
+C:\Users\lucifer0218\Desktop\l\ASIA\10物件導向軟體工程\Register\Register\obj\x86\Debug\Register.csprojResolveAssemblyReference.cache
